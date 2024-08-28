@@ -1,0 +1,51 @@
+div{
+    background-color:  aquamarine;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+form{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.activeButton{
+    border:1px solid 363636;
+    background-color: red;
+    color: black;
+
+}
+body{
+    background-color: hsla(300, 100%, 50%, 0.139);
+}
+.QuestionContainer{
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+}
+input[type="radio"]{
+    margin-right: 5px;
+
+}
+.rounded-box {
+    width: 200px;
+    height: 100px;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    border-radius: 10px; /* Adjust the value to change the roundness */
+}
+
+
+
+
+
+   
